@@ -1,0 +1,47 @@
+{
+  "favoriteTeam": ["micky", "aladin", "belle"],
+  "favoriteFilms": ["brave", "frozen", "monster's inc", "pirates of the caribbean"],
+  "energy": 125,
+  "mickyPoints?": 8000,
+  "diamondPoints?": 8000,
+  "player": {
+    "avatar": "default avatar",
+    "combatPower": 4,
+    "frame": "default frame",
+    "friendCount": 0,
+    "level": 1,
+    "levelProgress": 66,
+    "name": "mwj-test-01",
+    "playStyle": "default play style",
+    "xp": 1
+  },
+  "portalStats": {
+    "portalsCompleted": 3,
+    "highestRank": 3,
+    "highestScore": 3,
+    "charactersRescued": 3,
+    "playersRescued": 3,
+    "dungeonsCleared": 3,
+    "boxesOpen": 3
+  },
+  "quest": {
+    "questsCompleted": 7,
+    "storyMastery": 7,
+    "towersCleared": 7
+  },
+  "social": {
+    "totalCharacterCount": 4,
+    "totalReflectionCount": 6,
+    "collections": 7,
+    "giftsSent": 8
+  },
+  "uid": 1000019,
+  "language": "big southern drawl",
+  "device": "toaster oven",
+  "locale": "atlantis",
+  "timeInstalled": 95320948932,
+  "timeCreated": 95320948932,
+  "timeLastPlayed": 95309243902,
+  "timeLastUpdated": 95309243902,
+  "loginCount": 8942489
+}
