@@ -17,13 +17,28 @@
   },
   "portalStats": {
     "portalsCompleted": 3,
-    "highestRank": 3,
-    "highestScore": 3,
-    "charactersRescued": 3,
-    "playersRescued": 3,
-    "dungeonsCleared": 3,
     "boxesOpen": 3
   },
+  "portalChallengesCompleted": [
+		{
+			"highestScore": 999999999,
+      "name": "Super Fun Challenge",
+			"totalCharactersRescued": 99999,
+			"totalPlayersRescued": 999,
+			"totalDungeonsCleared": 99,
+			"totalBoxesOpened": 9,
+      "timeEventClosed": null
+		},
+    {
+			"highestScore": 999999999,
+      "name": "Old Super Fun Challenge",
+			"totalCharactersRescued": 99999,
+			"totalPlayersRescued": 999,
+			"totalDungeonsCleared": 99,
+			"totalBoxesOpened": 9,
+      "timeEventClosed": 95309243902
+		}
+	]
   "quest": {
     "questsCompleted": 7,
     "storyMastery": 7,
