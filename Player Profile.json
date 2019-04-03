@@ -1,5 +1,6 @@
 {
   "favoriteTeam": ["micky", "aladin", "belle"],
+  "favoriteTeamSetManually": false,
   "favoriteFilms": ["brave", "frozen", "monster's inc", "pirates of the caribbean"],
   "energy": 125,
   "mickyPoints?": 8000,
@@ -22,16 +23,16 @@
   "portalChallengesCompleted": [
 		{
 			"highestScore": 999999999,
-      "name": "Super Fun Challenge",
+                        "name": "Super Fun Challenge",
 			"totalCharactersRescued": 99999,
 			"totalPlayersRescued": 999,
 			"totalDungeonsCleared": 99,
 			"totalBoxesOpened": 9,
-      "timeEventClosed": null
+                        "timeEventClosed": null
 		},
     {
 			"highestScore": 999999999,
-      "name": "Old Super Fun Challenge",
+                        "name": "Old Super Fun Challenge",
 			"totalCharactersRescued": 99999,
 			"totalPlayersRescued": 999,
 			"totalDungeonsCleared": 99,
