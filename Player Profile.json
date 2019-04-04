@@ -1,5 +1,6 @@
 {
   "favoriteTeam": ["micky", "aladin", "belle"],
+  "favoriteTeamSetManually": false,
   "favoriteFilms": ["brave", "frozen", "monster's inc", "pirates of the caribbean"],
   "energy": 125,
   "mickyPoints?": 8000,
@@ -17,13 +18,28 @@
   },
   "portalStats": {
     "portalsCompleted": 3,
-    "highestRank": 3,
-    "highestScore": 3,
-    "charactersRescued": 3,
-    "playersRescued": 3,
-    "dungeonsCleared": 3,
     "boxesOpen": 3
   },
+  "portalChallengesCompleted": [
+		{
+			"highestScore": 999999999,
+                        "name": "Super Fun Challenge",
+			"totalCharactersRescued": 99999,
+			"totalPlayersRescued": 999,
+			"totalDungeonsCleared": 99,
+			"totalBoxesOpened": 9,
+                        "timeEventClosed": null
+		},
+    {
+			"highestScore": 999999999,
+                        "name": "Old Super Fun Challenge",
+			"totalCharactersRescued": 99999,
+			"totalPlayersRescued": 999,
+			"totalDungeonsCleared": 99,
+			"totalBoxesOpened": 9,
+      "timeEventClosed": 95309243902
+		}
+	],
   "quest": {
     "questsCompleted": 7,
     "storyMastery": 7,
@@ -37,7 +53,29 @@
   },
   "uid": 1000019,
   "language": "big southern drawl",
-  "device": "toaster oven",
+  "device": {
+	  "mac": "72974B4F-410B-5022-BF36-1BBAB0E7DCF9",
+	  "cpu": "Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz",
+	  "os": "Mac OS X 10.14.3",
+	  "gcaps": "OpenGL 4.1 ATI-2.4.10",
+	  "gpu": "editor",
+	  "model": "editor",
+	  "gmem": 4096,
+	  "caps": "editor",
+	  "width": 1517,
+	  "mem": 32768,
+	  "numcpu": 12,
+	  "height": 751,
+	  "asr": 48000,
+	  "udid": "a22a7c33-7e9f-466f-a6a6-43d48cd47f84-EDITOR",
+	  "device_id": "aus-mjack01-mac",
+	  "mem_grouping": 32768,
+	  "gmem_grouping": 4096,
+	  "blacklist": {},
+	  "whitelist": {
+	    "ratemyapp": {}
+	  }
+	},
   "locale": "atlantis",
   "timeInstalled": 95320948932,
   "timeCreated": 95320948932,
